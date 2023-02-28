@@ -12,7 +12,7 @@
 </h5>
 
 <p align="center">
-  <img title="visitors" height="20" src="https://komarev.com/ghpvc/?username=co01l3r">
+  <img title="visitors" height="20" src="https://visitor-badge.glitch.me/badge?page_id=co01l3r.co01l3r">
   <img title="GitHub last commit" height="20" src="https://img.shields.io/github/last-commit/co01l3r/co01l3r">
 </p>
 <hr>
