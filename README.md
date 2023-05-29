@@ -11,9 +11,9 @@
 </br>
 </h5>
 
-<p align="center">
+<!-- <p align="center">
   <img title="visitors" height="20" src="https://visitor-badge.glitch.me/badge?page_id=co01l3r.co01l3r">
-</p>
+</p> -->
 
 
 <hr>
